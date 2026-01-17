@@ -1,6 +1,6 @@
 # Sistema de Gestión de Contactos
 Ejecutar:
-python cli.py
+python main.py
 
 Pruebas:
 python -m unittest -v
